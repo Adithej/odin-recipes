@@ -1,3 +1,2 @@
 # odin-recipes
-A recipies site prokect that will showcase recipe which are 
-  suitable for IBD patients
+A recipies site specilised for Inflammtory Bowel Disease Patients 
